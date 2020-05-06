@@ -1,0 +1,37 @@
+body{
+    color: black;
+    background-color: rgb(36, 215, 228);
+}
+.div1{
+    width: 400px;
+    height: 450px;
+    background-color: blueviolet;
+    margin-left: 400px;
+    margin-top: 90px;
+    border: solid;
+    border-width: 3px;
+    border-radius: 15px;
+}
+h1{
+    text-decoration: underline;
+}
+input{
+    margin-left: 70px;
+}
+label{
+    margin-left: 70px;
+}
+select{
+    margin-left: 70px;
+}
+
+.checkp{
+    margin-left: 3px;
+    font-size: small;
+}
+.a{
+    margin-left:70px;
+}
+.div2{
+    float: right;
+}
